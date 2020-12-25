@@ -1,7 +1,8 @@
 {
-    "name": "hp/hello-composer",
+    "name": "beto9523/hello-composer",
     "description": "first",
 "type": "library",
+"minimum-stability":"dev"
     "license": "MIT",   "autoload": {
         "psr-4": {"vitalis\\HelloWorld\\": "src/"}
     }, "require": {}
