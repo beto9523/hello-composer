@@ -1,5 +1,5 @@
 {
-    "name": "hp/hello-composer",
+    "name": "beto9523/hello-composer",
     "description": "first",
 "type": "library",
     "license": "MIT",   "autoload": {
