@@ -1,7 +1,7 @@
 {
     "name": "beto9523/hello-composer",
     "description": "first",
-"type": "library","prefer-stable":true
+"type": "library","prefer-stable":true,
 "minimum-stability":"dev",
     "license": "MIT",   "autoload": {
         "psr-4": {"vitalis\\HelloWorld\\": "src/"}
